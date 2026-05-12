@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+Disallow: /config.php
+Disallow: /database.sql
+
+Sitemap: https://mydesignassistants.com/sitemap.php
